@@ -30,7 +30,7 @@
   Exploratory data analysis and visualization of dengue fever cases per district.  
 
 - **🌱 Business Dashboard:**  
-  Built a data-driven dashboard for monitoring durian & longan seed sales performance.
+
 
 ---
 
