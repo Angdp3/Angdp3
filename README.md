@@ -5,9 +5,9 @@
 ---
 
 ### 🔍 **About Me**  
-- 🌱 I’m constantly learning about data science, data visualization, and machine learning.  
-- 📊 I enjoy transforming data into actionable insights and building visualizations that tell stories.  
-- 🌟 My passion lies in analyzing real-world data, and turning complex datasets into simple visuals.  
+-  I’m constantly learning about data analyst, data science, and data visualization.  
+-  I enjoy transforming data into actionable insights and building visualizations that tell stories.  
+-  My passion lies in analyzing real-world data, and turning complex datasets into simple visuals.  
 
 ---
 
@@ -25,19 +25,17 @@
 
 ---
 
-### 🌟 **Projects Highlights**  
-- **📊 Dengue Fever Data Analysis:**  
-  Exploratory data analysis and visualization of dengue fever cases per district.  
-
-- **🌱 Business Dashboard:**  
-
+### 🌟 **Portofolio Highlights**  
+- [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Angdp3/Power_BI_Dashboard)
+- [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Angdp3/Excel_DataAnalyst)
+- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Angdp3/Machine_Learning)
 
 ---
 
 ### 🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Angdp3)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angdp3)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Angdp3)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Angdp3)  
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angdp3)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Angdp3)  
 ---
 
 
