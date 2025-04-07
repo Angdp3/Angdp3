@@ -28,6 +28,7 @@
 ### 🌟 **Portofolio Highlights**  
 - [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Angdp3/Power_BI_Dashboard)
 - [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Angdp3/Excel_DataAnalyst)
+- [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Angdp3/SQL_DataAnalyst)
 - [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Angdp3/Machine_Learning)
 
 ---
