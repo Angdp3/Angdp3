@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm usually called Anggoro!
 
-🎓 **Fresh Graduate** in Information Systems | 📊 **Data Enthusiast** | 📈 Passionate about **Data Science, Analysis & Visualization**
+🎓 **Graduate** in Information Systems | 📊 **Data Enthusiast** | 📈 Passionate about **Data Science, Analysis & Visualization**
 
 ---
 
